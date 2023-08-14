@@ -1,0 +1,30 @@
+_repo: New-stories-b-The-look-of-the-thing-and-other-stories_71383
+_version: 0.0.1
+creator:
+  author:
+    agent_name: A. L. O. E.
+    aliases:
+    - A.L.O.E.
+    - Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: ''
+gutenberg_issued: '2023-08-10'
+identifiers:
+  gutenberg: '71383'
+language: en
+pgterms:marc905: 20230807151923aloe
+pgterms:marc906: '1865'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bGen. Prot. Epis. Sunday School. Union and Church
+  Book Society., $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'New stories : $b The look of the thing and other stories'
+url: http://www.gutenberg.org/ebooks/71383
